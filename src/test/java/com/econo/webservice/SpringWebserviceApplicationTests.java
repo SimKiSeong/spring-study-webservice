@@ -1,4 +1,4 @@
-package com.econo.springwebservice;
+package com.econo.webservice;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
